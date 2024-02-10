@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "675470974343",
+    "firebase_url": "https://ioit-acm-default-rtdb.firebaseio.com",
+    "project_id": "ioit-acm",
+    "storage_bucket": "ioit-acm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675470974343:android:527dde9e63472395048722",
+        "android_client_info": {
+          "package_name": "com.example.acm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvESzoQpdUoARsU7AaGn4yq0ZgWx20qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675470974343:android:9f76c5a3531388c1048722",
+        "android_client_info": {
+          "package_name": "com.example.acm_ioit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvESzoQpdUoARsU7AaGn4yq0ZgWx20qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
